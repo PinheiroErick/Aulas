@@ -16,7 +16,7 @@ int main()
 	printf("Digite a distancia percorrida: ");
 	scanf("%f", &km);
 	
-	consumo = km / litro;
+	consumo = km / litro; 
 	
 	printf("|--- Veiculo ---|\n");
 	printf("|     %s     |\n", veiculo);
