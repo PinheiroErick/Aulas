@@ -1,0 +1,8 @@
+Chame o professor somente ao encerrar as 2 atividades.
+
+
+1- Realize um código que permite que adicione vários números e mostre o valor médio. O código deve perguntar se deseja adicionar um novo número.
+
+2- Realize um código que permita que adicione vários valores em reais(float). O código deve perguntar se deseja adicionar um novo número. No final deve perguntar o valor pago e mostrar o troco na tela.
+
+ 

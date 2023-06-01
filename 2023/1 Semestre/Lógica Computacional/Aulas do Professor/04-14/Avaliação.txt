@@ -1,0 +1,31 @@
+Faça um algoritmo com uma estrutura de repetição
+
+No menu ofereça as opções:
+
+Opção 1: Novo.
+Opção 2: Listar.
+Opção 0: Sair
+
+Na opção 1 do MENU:  
+Solicitar: Nome da lata ex. Óleo, Coca-cola, e etc.
+Solicitar: Raio da lata.
+Solicitar: Altura da lata.
+
+Na opção 2 do MENU:
+Listar todos os:
+Nomes
+Raio
+Altura
+Volume
+
+Na Opção 0 do MENU:
+Sair do sistema
+
+
+Explique o que está fazendo em cada bloco de código usando o recurso de comentários // Como se fosse um tutorial de passo a passo.
+
+Utilize recursos de limpar tela para ficar bacana
+
+Considerando a fórmula VOLUME = π * (RAIO * RAIO) * ALTURA.
+Utilize as variáveis AREA e RAIO, a constante π (pi = 3,14159) e os operadores aritméticos de multiplicação. 
+
