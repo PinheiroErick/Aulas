@@ -1,0 +1,13 @@
+1 - Faça um algoritmo que leia um valor inteiro e apresente os resultados do quadrado e do cubo do valor lido. 
+
+2 - Faça um algoritmo que leia dois números A e B e imprima o maior deles. 
+
+3 - Faça um algoritmo que leia dois números e indique se são iguais ou se são diferentes.
+
+4 - Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se este número é positivo ou negativo. 
+
+5 - Faça um algoritmo que leia dois números nas variáveis Val1 e Val2, calcule sua
+média na variável Media e imprima seu valor
+
+6 - Faça um algoritmo que leia a velocidade de um veículo em km/h e calcule e
+imprima a velocidade em m/s (metros por segundo). 

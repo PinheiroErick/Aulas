@@ -1,0 +1,44 @@
+Considere a seguinte situação: 
+descontam-se inicialmente 10% do salário bruto do 
+trabalhador como contribuição à previdência social. 
+
+Após esse desconto, há um outro desconto de 5% sobre 
+o valor restante do salário bruto, a título de um 
+determinado imposto. 
+
+Faça um algoritmo que leia o nome e salário bruto de um 
+cidadão e imprima o seu nome e salário líquido.
+
+
+
+
+
+
+Uma empresa de vendas tem 1 corretor. 
+A empresa paga ao corretor uma comissão calculada de 
+acordo com o valor de suas vendas.
+
+ Se o valor da venda de um corretor  for maior que 
+ R$ 50.000.00 a comissão será de 12% do valor vendido.
+ 
+ Se o valor da venda do corretor estiver entre 
+ R$ 30.000.00 e R$ 50.000.00 (incluindo extremos) 
+ a comissão será de 9.5%.
+
+ Em qualquer outro caso, a comissão será de 7%.
+ Escreva um algoritmo que gere um relatório contendo 
+ nome, valor da venda e comissão do 
+ corretor. 
+
+ Um banco concederá um crédito especial aos seus 
+ clientes, variável com o saldo médio no último ano. 
+ Faça um algoritmo que leia o saldo médio de um 
+ cliente e  calcule o valor do crédito de acordo 
+ com a tabela abaixo. 
+ Mostre uma mensagem informando o saldo médio 
+ e o valor do crédito. 
+
+Saldo médio Percentual de 0 a 200 nenhum crédito
+de 201 a 400 20% do valor do saldo médio
+de 401 a 600 30% do valor do saldo médio
+acima de 601 40% do valor do saldo médio 
